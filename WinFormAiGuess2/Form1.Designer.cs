@@ -37,8 +37,9 @@ namespace WinFormAiGuess2
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.SaddleBrown;
             this.ClientSize = new System.Drawing.Size(982, 653);
+            this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "AiGuess";
             this.ResumeLayout(false);
 
         }
