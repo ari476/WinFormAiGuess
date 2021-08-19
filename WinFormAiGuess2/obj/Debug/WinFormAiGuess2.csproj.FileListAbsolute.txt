@@ -1,0 +1,10 @@
+C:\Users\yafit\source\repos\WinFormAiGuess2\WinFormAiGuess2\obj\Debug\WinFormAiGuess2.Properties.Resources.resources
+C:\Users\yafit\source\repos\WinFormAiGuess2\WinFormAiGuess2\obj\Debug\WinFormAiGuess2.csproj.GenerateResource.cache
+C:\Users\yafit\source\repos\WinFormAiGuess2\WinFormAiGuess2\obj\Debug\WinFormAiGuess2.csproj.CoreCompileInputs.cache
+C:\Users\yafit\source\repos\WinFormAiGuess2\WinFormAiGuess2\bin\Debug\WinFormAiGuess2.exe.config
+C:\Users\yafit\source\repos\WinFormAiGuess2\WinFormAiGuess2\bin\Debug\WinFormAiGuess2.exe
+C:\Users\yafit\source\repos\WinFormAiGuess2\WinFormAiGuess2\bin\Debug\WinFormAiGuess2.pdb
+C:\Users\yafit\source\repos\WinFormAiGuess2\WinFormAiGuess2\obj\Debug\WinFormAiGuess2.exe
+C:\Users\yafit\source\repos\WinFormAiGuess2\WinFormAiGuess2\obj\Debug\WinFormAiGuess2.pdb
+C:\Users\yafit\source\repos\WinFormAiGuess2\WinFormAiGuess2\obj\Debug\WinFormAiGuess2.Form1.resources
+C:\Users\yafit\source\repos\WinFormAiGuess2\WinFormAiGuess2\obj\Debug\WinFormAiGuess2.csprojAssemblyReference.cache
