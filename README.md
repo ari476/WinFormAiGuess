@@ -7,8 +7,8 @@ A win form application that guesses a series of colors that a user selects a cer
  ![image](https://user-images.githubusercontent.com/83061722/161143728-5eba8e4d-f2ab-43e0-9eb3-06493b7a5cf2.png)
 
  The computer will try to guess each time what the combination of colors you choose. 
-  After each guess you need to enter input how many colors the computer guesses are in the correct position relative to  
-  your colors order and how many colors the computer guesses are in your colors but not in the correct position
+ After each guess you need to enter input how many colors the computer guesses are in the correct position relative to  
+ your colors order and how many colors the computer guesses are in your colors but not in the correct position
   
   # Example
  Suppose we chose this order colors: orange green blue red.
