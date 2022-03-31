@@ -9,6 +9,7 @@ using winFormAiGuess2;
 namespace WinFormAiGuess2
 {
     class ResponsSquare : Square
+    // This class represents a unique square that has text on it
     {
         private string text;
         private Color foreColor;
@@ -25,6 +26,7 @@ namespace WinFormAiGuess2
 
         private void OnClick(object sender, EventArgs e)
         {
+            // This method occurs when clicking on the current square
             amount++;
             amount %= 5;
             Text = "" + amount;
@@ -33,7 +35,7 @@ namespace WinFormAiGuess2
         public string Text { get => text; set { text = value; changeProperty(); } }
         public Color ForeColor { get => foreColor; set { foreColor = value; changeProperty(); } }
 
-        public int Amount { get => amount;}
+        public int Amount { get => amount; }
 
         private void changeProperty()
         {
