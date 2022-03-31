@@ -2,7 +2,7 @@
 A win form application that guesses a series of colors that a user selects a certain order with maximum efficiency
 
 ## How to use 
- Think of a 4 colors that appear at the top of the window
+ Think of a 4 colors that appear at the top of the window in specific order.
  
  ![image](https://user-images.githubusercontent.com/83061722/161143728-5eba8e4d-f2ab-43e0-9eb3-06493b7a5cf2.png)
 
